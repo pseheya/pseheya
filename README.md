@@ -6,7 +6,9 @@ I'm a **Full-Stack Engineer** passionate about building awesome applications!
 
 ## 🚀 Projects  
 🔹 [EuroLingo](https://github.com/pseheya/EuroLingo) – Language learning game!
+
 🔹 [Project Web](https://github.com/pseheya/Project_profile) – Front-end project-profile.  
+
 🔹 [NC_News](https://github.com/pseheya/my-nc-news) – Interactive full-stack solo project!
 
 ## Tech Stack & Skills
